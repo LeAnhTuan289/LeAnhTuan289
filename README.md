@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/📍_Ha_Noi,_Vietnam-1a1b27?style=for-the-badge" alt="Location"/>
-
+  <a href="www.linkedin.com/in/anhtuanle11"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 
 </div>
 
